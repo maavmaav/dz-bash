@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Мой текущий каталог $PWD"
+echo $PWD

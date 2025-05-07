@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Моя ОС";cat /etc/os-release
+cat /etc/os-release
